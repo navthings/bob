@@ -6,3 +6,6 @@ right now, this is a pcb with led's that im submitting asap because i need this 
 this board needs jlc to solder it tho so thats why im submitting now
 
 <3 hack club fallen
+
+![bob front](images/bob-front.png)
+![bob back](images/bob-back.png)
