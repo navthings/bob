@@ -1,10 +1,10 @@
 Comment,Designator,Footprint,LCSC Part #,Qty (2 boards),Unit USD,Total USD,Link
-100n,C1-C16,C_0402_1005Metric,C1525,2,0.0013,0.00,https://www.lcsc.com/product-detail/C1525.html
-22u,C17-C20,C_0805_2012Metric,C45783,2,0.0318,0.06,https://www.lcsc.com/product-detail/C45783.html
+100n,C1-C16,C_0402_1005Metric,C1525,32,0.0013,0.04,https://www.lcsc.com/product-detail/C1525.html
+22u,C17-C20,C_0805_2012Metric,C45783,8,0.0318,0.25,https://www.lcsc.com/product-detail/C45783.html
 10u,C21,C_0805_2012Metric,C15850,2,0.0159,0.03,https://www.lcsc.com/product-detail/C15850.html
-LED,D1-D256,LED_0603_1608Metric,C434421,2,0.0078,0.02,https://www.lcsc.com/product-detail/C434421.html
-470,R1-R16,R_0402_1005Metric,C25117,2,0.0008,0.00,https://www.lcsc.com/product-detail/C25117.html
-TLC5927IDBQR,U1-U16,SSOP-24_L8.6-W3.9-P0.65-LS6.0-BL,C181418,2,1.241,2.48,https://www.lcsc.com/product-detail/C181418.html
+LED,D1-D256,LED_0603_1608Metric,C434421,512,0.0078,3.99,https://www.lcsc.com/product-detail/C434421.html
+470,R1-R16,R_0402_1005Metric,C25117,32,0.0008,0.03,https://www.lcsc.com/product-detail/C25117.html
+TLC5927IDBQR,U1-U16,SSOP-24_L8.6-W3.9-P0.65-LS6.0-BL,C181418,32,1.241,39.71,https://www.lcsc.com/product-detail/C181418.html
 "PCB 4 layer 0.8mm, 5 pcs (estimate)",,,,1,10.0,10.00,https://cart.jlcpcb.com/quote
 "Assembly setup, double sided",,,,1,51.12,51.12,https://jlcpcb.com/help/article/pcb-assembly-price
 "Stencil, double sided",,,,1,16.42,16.42,https://jlcpcb.com/help/article/pcb-assembly-price
@@ -12,4 +12,4 @@ TLC5927IDBQR,U1-U16,SSOP-24_L8.6-W3.9-P0.65-LS6.0-BL,C181418,2,1.241,2.48,https:
 "Feeder loading, 6 part types",,,,6,1.53,9.18,https://jlcpcb.com/help/article/pcb-assembly-price
 Handling fee,,,,1,14.93,14.93,https://jlcpcb.com/help/article/pcb-assembly-price
 "J1 8 pin header, hand solder (estimate)",,,,2,0.2,0.40,https://www.lcsc.com/search?q=pin%20header%201x8%202.54mm
-"TOTAL, 2 assembled boards, before shipping",,,,,,136.46,
+"TOTAL, 2 assembled boards, before shipping",,,,,,177.92,
