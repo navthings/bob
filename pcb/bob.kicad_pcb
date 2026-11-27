@@ -62614,7 +62614,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -62627,7 +62627,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -62651,7 +62651,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -62678,7 +62678,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -63621,7 +63621,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -63634,7 +63634,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -63658,7 +63658,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -63685,7 +63685,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -64094,7 +64094,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -64107,7 +64107,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -64131,7 +64131,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -64158,7 +64158,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -65101,7 +65101,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -65114,7 +65114,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -65138,7 +65138,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -65165,7 +65165,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -65574,7 +65574,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -65587,7 +65587,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -65611,7 +65611,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -65638,7 +65638,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -66937,7 +66937,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -66950,7 +66950,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -66974,7 +66974,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -67001,7 +67001,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -67410,7 +67410,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -67423,7 +67423,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -67447,7 +67447,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -67474,7 +67474,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -68061,7 +68061,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -68074,7 +68074,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -68098,7 +68098,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -68125,7 +68125,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -68890,7 +68890,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -68903,7 +68903,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -68927,7 +68927,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -68954,7 +68954,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -69541,7 +69541,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -69554,7 +69554,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -69578,7 +69578,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -69605,7 +69605,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -71260,7 +71260,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -71273,7 +71273,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -71297,7 +71297,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -71324,7 +71324,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -71733,7 +71733,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -71746,7 +71746,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -71770,7 +71770,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -71797,7 +71797,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -72384,7 +72384,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -72397,7 +72397,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -72421,7 +72421,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -72448,7 +72448,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -73391,7 +73391,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -73404,7 +73404,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -73428,7 +73428,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -73455,7 +73455,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -73864,7 +73864,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -73877,7 +73877,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -73901,7 +73901,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -73928,7 +73928,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -74693,7 +74693,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 0 -6.713 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -74706,7 +74706,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -74730,7 +74730,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -74757,7 +74757,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")

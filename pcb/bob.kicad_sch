@@ -1136,7 +1136,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "bob:TLC5927IDBQR"
+		(symbol "bob:TLC5926IDBQR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1152,7 +1152,7 @@
 					)
 				)
 			)
-			(property "Value" "TLC5927IDBQR"
+			(property "Value" "TLC5926IDBQR"
 				(at 0 -19.05 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1173,7 +1173,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+			(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 				(at 0 -24.13 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1206,7 +1206,7 @@
 					)
 				)
 			)
-			(property "MPN" "TLC5927IDBQR"
+			(property "MPN" "TLC5926IDBQR"
 				(at 0 -29.21 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1217,7 +1217,7 @@
 					)
 				)
 			)
-			(property "LCSC Part" "C181418"
+			(property "LCSC Part" "C181595"
 				(at 0 -31.75 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1239,7 +1239,7 @@
 					)
 				)
 			)
-			(symbol "TLC5927IDBQR_0_1"
+			(symbol "TLC5926IDBQR_0_1"
 				(rectangle
 					(start -17.78 16.51)
 					(end 17.78 -16.51)
@@ -11693,7 +11693,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 223.52 132.08 0)
 		(unit 1)
 		(body_style 1)
@@ -11714,7 +11714,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 223.52 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11735,7 +11735,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 223.52 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -11768,7 +11768,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 223.52 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -11779,7 +11779,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 223.52 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -13711,7 +13711,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 223.52 43.18 0)
 		(unit 1)
 		(body_style 1)
@@ -13732,7 +13732,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 223.52 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13753,7 +13753,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 223.52 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -13786,7 +13786,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 223.52 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -13797,7 +13797,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 223.52 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -16730,7 +16730,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 142.24 87.63 0)
 		(unit 1)
 		(body_style 1)
@@ -16751,7 +16751,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 142.24 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16772,7 +16772,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 142.24 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -16805,7 +16805,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 142.24 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -16816,7 +16816,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 142.24 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -17916,7 +17916,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 59.69 132.08 0)
 		(unit 1)
 		(body_style 1)
@@ -17937,7 +17937,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 59.69 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17958,7 +17958,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 59.69 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -17991,7 +17991,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 59.69 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -18002,7 +18002,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 59.69 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -19802,7 +19802,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 59.69 43.18 0)
 		(unit 1)
 		(body_style 1)
@@ -19823,7 +19823,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 59.69 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19844,7 +19844,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 59.69 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -19877,7 +19877,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 59.69 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -19888,7 +19888,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 59.69 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -22277,7 +22277,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 142.24 176.53 0)
 		(unit 1)
 		(body_style 1)
@@ -22298,7 +22298,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 142.24 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22319,7 +22319,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 142.24 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -22352,7 +22352,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 142.24 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -22363,7 +22363,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 142.24 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -22692,7 +22692,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 59.69 87.63 0)
 		(unit 1)
 		(body_style 1)
@@ -22713,7 +22713,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 59.69 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22734,7 +22734,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 59.69 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -22767,7 +22767,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 59.69 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -22778,7 +22778,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 59.69 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -30850,7 +30850,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 306.07 132.08 0)
 		(unit 1)
 		(body_style 1)
@@ -30871,7 +30871,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 306.07 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30892,7 +30892,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 306.07 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -30925,7 +30925,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 306.07 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -30936,7 +30936,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 306.07 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -32170,7 +32170,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 306.07 176.53 0)
 		(unit 1)
 		(body_style 1)
@@ -32191,7 +32191,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 306.07 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32212,7 +32212,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 306.07 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -32245,7 +32245,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 306.07 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -32256,7 +32256,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 306.07 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -33889,7 +33889,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 306.07 87.63 0)
 		(unit 1)
 		(body_style 1)
@@ -33910,7 +33910,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 306.07 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33931,7 +33931,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 306.07 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -33964,7 +33964,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 306.07 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -33975,7 +33975,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 306.07 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -41612,7 +41612,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 306.07 43.18 0)
 		(unit 1)
 		(body_style 1)
@@ -41633,7 +41633,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 306.07 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41654,7 +41654,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 306.07 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -41687,7 +41687,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 306.07 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -41698,7 +41698,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 306.07 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -44553,7 +44553,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 223.52 87.63 0)
 		(unit 1)
 		(body_style 1)
@@ -44574,7 +44574,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 223.52 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44595,7 +44595,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 223.52 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -44628,7 +44628,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 223.52 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -44639,7 +44639,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 223.52 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -44732,7 +44732,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 142.24 43.18 0)
 		(unit 1)
 		(body_style 1)
@@ -44753,7 +44753,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 142.24 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44774,7 +44774,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 142.24 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -44807,7 +44807,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 142.24 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -44818,7 +44818,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 142.24 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -58109,7 +58109,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 59.69 176.53 0)
 		(unit 1)
 		(body_style 1)
@@ -58130,7 +58130,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 59.69 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58151,7 +58151,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 59.69 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -58184,7 +58184,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 59.69 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -58195,7 +58195,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 59.69 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -60312,7 +60312,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 223.52 176.53 0)
 		(unit 1)
 		(body_style 1)
@@ -60333,7 +60333,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 223.52 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60354,7 +60354,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 223.52 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -60387,7 +60387,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 223.52 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -60398,7 +60398,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 223.52 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -62993,7 +62993,7 @@
 		)
 	)
 	(symbol
-		(lib_id "bob:TLC5927IDBQR")
+		(lib_id "bob:TLC5926IDBQR")
 		(at 142.24 132.08 0)
 		(unit 1)
 		(body_style 1)
@@ -63014,7 +63014,7 @@
 				)
 			)
 		)
-		(property "Value" "TLC5927IDBQR"
+		(property "Value" "TLC5926IDBQR"
 			(at 142.24 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63035,7 +63035,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5927IDBQR_TLC5927IDBQR_C181418.html"
+		(property "Datasheet" "https://lcsc.com/product-detail/LED-Drivers_TI_TLC5926IDBQR_TLC5926IDBQR_C181595.html"
 			(at 142.24 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -63068,7 +63068,7 @@
 				)
 			)
 		)
-		(property "MPN" "TLC5927IDBQR"
+		(property "MPN" "TLC5926IDBQR"
 			(at 142.24 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -63079,7 +63079,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C181418"
+		(property "LCSC Part" "C181595"
 			(at 142.24 163.83 0)
 			(hide yes)
 			(show_name no)
