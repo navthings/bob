@@ -6513,7 +6513,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT125"
+		(property "Value" "74HCT125"
 			(at 55.88 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12286,7 +12286,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DRV5023"
+		(property "Value" "DRV5023FA"
 			(at 109.22 52.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12530,7 +12530,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT125"
+		(property "Value" "74HCT125"
 			(at 81.28 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13209,7 +13209,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT125"
+		(property "Value" "74HCT125"
 			(at 29.21 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13802,7 +13802,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74AHCT125"
+		(property "Value" "74HCT125"
 			(at 139.7 175.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14076,7 +14076,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT125"
+		(property "Value" "74HCT125"
 			(at 109.22 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
