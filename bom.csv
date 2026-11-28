@@ -2,5 +2,5 @@
 "LED board, 42x42mm 4 layer 0.8mm ENIG, assembled both sides","2","JLCPCB","pcb/led-board/jlc","80.25","160.49","https://jlcpcb.com","the moving board, 256 LEDs on the front and 16 TLC5926 drivers on the back. JLC fits everything incl the 8 pin header. 1 spare"
 "controller board, 60x60mm 2 layer ENIG, assembled top","2","JLCPCB","pcb/controller/jlc","56.28","112.56","https://jlcpcb.com","the base, ESP32-S3, USB-C power, level shifter, hall sensor, IMU, motor driver. 1 spare"
 "buffer","1","","","30.00","30.00","","JLC part prices and stock move around between quote and order"
-"shipping, DHL to Perth (high estimate)","1","JLCPCB","","50.00","50.00","","both boards in one parcel, about 1kg"
-"TOTAL","","","","","353.05","","quoted on jlc 28 nov 2026"
+"shipping, DHL to Perth","1","JLCPCB","","30.00","30.00","","both boards in one parcel, about 1kg. the buffer covers it if its more"
+"TOTAL","","","","","333.05","","quoted on jlc 28 nov 2026"
