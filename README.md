@@ -12,8 +12,9 @@ a motor spins a scotch yoke that turns the spin into straight up and down motion
 
 whats in here
 
-pcb/ is the led board (kicad). 256 leds, 16 tlc5926 drivers, 4 layers, 42x42mm. gerbers are pcb/bob-gerbers.zip and the jlc files are pcb/bob-bom.csv and pcb/bob-cpl.csv, just upload to jlc
+pcb/led-board/ is the led board (kicad). 256 leds, 16 tlc5926 drivers, 4 layers, 42x51mm
 pcb/controller/ is the controller board (kicad). esp32-s3, usb-c for power and code, the motor driver, hall sensor, imu and a level shifter for the led board, 60x60mm
+each board has a jlc/ folder with gerbers.zip, bom.csv and cpl.csv, just upload those to jlc
 flip.py is the water sim on my mac (flip fluid), the one that goes on bob gets rewritten in c
 code for bob comes when the boards do
 
