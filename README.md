@@ -15,6 +15,7 @@ whats in here
 pcb/led-board/ is the led board (kicad). 256 leds, 16 tlc5926 drivers, 4 layers, 42x51mm
 pcb/controller/ is the controller board (kicad). esp32-s3, usb-c for power and code, the motor driver, hall sensor, imu and a level shifter for the led board, 60x60mm
 each board has a jlc/ folder with gerbers.zip, bom.csv and cpl.csv, just upload those to jlc
+bom.csv is what bob costs, both boards made and assembled at jlc (about $353 usd with shipping)
 flip.py is the water sim on my mac (flip fluid), the one that goes on bob gets rewritten in c
 code for bob comes when the boards do
 
